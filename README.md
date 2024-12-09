@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Ling</h1>
 <h3 align="center">A passionate junior developer from the United Kingdom</h3>
 
-- 🔭 I’m currently working on a [AvA](https://github.com/jam3sl1ng/ava)
+- 🔭 I’m currently working on a pygame [Scrolling Shooter](https://github.com/jam3sl1ng/ScrollingShooter)
 
 - 👯 I’m currently collaborating on [Artemis](https://github.com/jam3sl1ng/Artemis)
 
